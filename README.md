@@ -36,3 +36,4 @@ The analysis involves the following steps:
 ## References
 
 - Venter, Z. S., Aunan, K., Chowdhury, S., & Lelieveld, J. (2020). COVID-19 lockdowns cause global air pollution declines. *Proceedings of the National Academy of Sciences*, 117(32), 18984-18990. [DOI:10.1073/pnas.2006853117](https://doi.org/10.1073/pnas.2006853117)
+- Venter, Z. S., Aunan, K., Chowdhury, S., & Lelieveld, J. (2023). Correction for Venter et al., COVID-19 lockdowns cause global air pollution declines. *Proceedings of the National Academy of Sciences*, 120(52), e2320514120. [DOI:10.1073/pnas.2320514120](https://doi.org/10.1073/pnas.2320514120)
