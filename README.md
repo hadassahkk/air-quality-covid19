@@ -1,10 +1,10 @@
 # Air Quality Analysis During COVID-19 Lockdowns
 
-This repository contains the code and analysis for reproducing the graphs from the article "COVID-19 lockdowns cause global air pollution declines" published in the Proceedings of the National Academy of Sciences (PNAS).
+This repository contains the code and analysis for reproducing the graphs from the article "COVID-19 lockdowns cause global air pollution declines" published in the Proceedings of the National Academy of Sciences (PNAS). In attempting to reproduce the original findings using data released by the authors, two potential errors in the authors’ original analysis were found. These discrepencies were resolved through collaboration with the authors. This process changed the magnitude of the paper’s findings, but not the overall conclusions. The authors have since updated the paper and issued a correction detailing the changes.
 
 ## Overview
 
-The COVID-19 pandemic led to unprecedented reductions in economic and transportation activities worldwide. This project aims to replicate the analysis from the mentioned article, which quantifies the impact of these lockdowns on global air pollution levels. The primary focus is on the changes in nitrogen dioxide (NO₂), particulate matter (PM₂.₅), and ozone (O₃) concentrations.
+The COVID-19 pandemic led to unprecedented reductions in economic and transportation activities worldwide. This project aims to replicate the analysis from the mentioned article, which quantifies the impact of these lockdowns on global air pollution levels. The primary focus is on the changes in nitrogen dioxide (NO₂), particulate matter (PM₂.₅), and ozone (O₃) concentrations. 
 
 ## Data Sources
 
